@@ -1,5 +1,5 @@
 <p align="center">
-<img width="640" height="360" alt="kamen-rider-revice-kamen-rider" src="https://github.com/user-attachments/assets/09fa9880-1582-4158-9e73-44f55749d001" />
+<img width="836" height="343" alt="Screenshot 2026-07-18 004654" src="https://github.com/user-attachments/assets/7d34089c-39cf-4912-a598-1934486bb886" />
 </p>
 </br>
 <p align="center">
