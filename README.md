@@ -1,5 +1,8 @@
 <p align="center">
-<img width="836" height="343" alt="Screenshot 2026-07-18 004654" src="https://github.com/user-attachments/assets/7d34089c-39cf-4912-a598-1934486bb886" />
+<img width="727" height="357" alt="image" src="https://github.com/user-attachments/assets/561fdf34-f6a3-43b0-9371-fe20aaca1bb5" />
+</p>
+<p align="center">
+<sub>art belongs to @w-51096002 on tumblr!</sub>
 </p>
 </br>
 <p align="center">
