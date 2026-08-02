@@ -18,6 +18,4 @@
 ✦
 <a href="https://rentry.co/viciousfangs">𝚛𝚎𝚗𝚝𝚛𝚢. </a>
 ✦
-<a href="https://viciousfangss.carrd.co/">𝚌𝚊𝚛𝚛𝚍. </a>
-✦
-<a href="https://pronouns.cc/@viciousfangs">𝚙𝚛𝚗𝚜.𝚌𝚌 </a>
+<a href="https://guns.lol/viciousfangs">𝚐𝚞𝚗𝚜.𝚕𝚘𝚕 </a>
