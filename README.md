@@ -1,10 +1,6 @@
 <p align="center">
-<img width="727" height="357" alt="image" src="https://github.com/user-attachments/assets/561fdf34-f6a3-43b0-9371-fe20aaca1bb5" />
+<img width="1087" height="537" alt="image" src="https://github.com/user-attachments/assets/f8e7e585-10d6-4bb3-b0a5-795554098b70" />
 </p>
-<p align="center">
-<sub>art belongs to @w-51096002 on tumblr!</sub>
-</p>
-</br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=venomousviperr&color=ffc4e3&label=★+Hollowed+Souls&style=plastic)"/>
 </p>
