@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1087" height="537" alt="image" src="https://github.com/user-attachments/assets/f8e7e585-10d6-4bb3-b0a5-795554098b70" />
+<img width="1082" height="416" alt="image" src="https://github.com/user-attachments/assets/90c781ce-ebce-4961-8d00-0e4fd7b4d5a0" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=venomousviperr&color=ffc4e3&label=★+Hollowed+Souls&style=plastic)"/>
