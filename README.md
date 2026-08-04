@@ -12,6 +12,4 @@
 <p align="center">
  <a href="https://viciousfangs.atabook.org/">新𝚋𝚘𝚘𝚔.</a>
 ✦
-<a href="https://rentry.co/viciousfangs">𝚛𝚎𝚗𝚝𝚛𝚢. </a>
-✦
 <a href="https://guns.lol/viciousfangs">𝚐𝚞𝚗𝚜.𝚕𝚘𝚕 </a>
