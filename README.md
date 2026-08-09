@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Beau+Rivage&size=40&duration=5020&pause=2000&color=E3D4C3&center=true&vCenter=true&width=435&lines=May+you+never+forget+me." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Beau+Rivage&size=35&duration=5020&pause=2000&color=F0E1DA&center=true&vCenter=true&width=435&lines=The+galaxies+weep+out+of+envy+with+your+light." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
