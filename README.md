@@ -15,6 +15,8 @@
   </a>
 </p>
 <p align="center">
- <a href="https://viciousfangs.atabook.org/">新𝚋𝚘𝚘𝚔.</a>
+<a href="https://viciousfangs.atabook.org/">新𝚋𝚘𝚘𝚔.</a>
+✦
+<a href="https://viciousfangs.straw.page">𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a>
 ✦
 <a href="https://guns.lol/viciousfangs">𝚐𝚞𝚗𝚜.𝚕𝚘𝚕 </a>
