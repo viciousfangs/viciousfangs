@@ -1,13 +1,13 @@
 <p align="center">
-<kbd> <img width="1150" height="443" alt="image" src="https://github.com/user-attachments/assets/fe33aa79-0889-495d-947a-991878458318" /> </kbd>
+<kbd> <img width="640" height="360" alt="buddyup" src="https://github.com/user-attachments/assets/744b22fe-1d97-4d62-be8e-a23aba03666c" /> </kbd>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Beau+Rivage&size=35&duration=5020&pause=2000&color=F0E1DA&center=true&vCenter=true&width=435&lines=The+galaxies+weep+out+of+envy+with+your+light." alt="Typing SVG" /></a>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=405&height=91&backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Buddy+Up%21%22%2C%22font%22%3A%22Erica+One%22%2C%22color%22%3A%22%2337bfe1%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=432a69&label=★+Hollowed+Souls&style=plastic)"/>
+<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=FFA2D5&label=★+Hollowed+Souls&style=plastic)"/>
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
