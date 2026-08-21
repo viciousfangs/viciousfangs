@@ -19,4 +19,4 @@
 ✦
 <a href="https://viciousfangs.straw.page">𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a>
 ✦
-<a href="https://suffocating.xyz/viciousfangss">suffocating.xyz </a>
+<a href="https://suffocating.xyz/viciousfangss">𝚜𝚞𝚏𝚏𝚘𝚌𝚊𝚝𝚒𝚗𝚐.𝚡𝚢𝚣 </a>
