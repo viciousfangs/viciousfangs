@@ -1,13 +1,11 @@
 <p align="center">
-<kbd> <img width="640" height="360" alt="buddyup" src="https://github.com/user-attachments/assets/744b22fe-1d97-4d62-be8e-a23aba03666c" /> </kbd>
+<kbd> <img width="1143" height="240" alt="carian" src="https://github.com/user-attachments/assets/4b248c98-d84e-45ee-abee-64c46d70139d" /> </kbd>
 </p>
-
 <p align="center">
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=405&height=91&backgroundOpacity=0&border=false&cursorStyle=block&lines=%5B%7B%22text%22%3A%22Buddy+Up%21%22%2C%22font%22%3A%22Erica+One%22%2C%22color%22%3A%22%2337bfe1%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /></a>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?height=95&pause=953&backgroundOpacity=0&border=false&cursorStyle=blank&lines=%5B%7B%22text%22%3A%22I+looked+at+your+eyes%2C+and+saw+dullness.%22%2C%22font%22%3A%22Cinzel%22%2C%22color%22%3A%22%23ededf3%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /> </a>
 </p>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=FFA2D5&label=★+Hollowed+Souls&style=plastic)"/>
+<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=555687&label=★+Hollowed+Souls&style=plastic)"/>
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
