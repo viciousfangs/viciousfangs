@@ -13,8 +13,8 @@
   </a>
 </p>
 <p align="center">
-<a href="https://viciousfangs.atabook.org/">新𝚋𝚘𝚘𝚔.</a>
+<a href="https://viciousfangs.atabook.org/">新𝖇𝖔𝖔𝓀</a>
 ✦
-<a href="https://viciousfangs.straw.page">𝚜𝚝𝚛𝚊𝚠𝚙𝚊𝚐𝚎 </a>
+<a href="https://viciousfangs.straw.page">𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊</a>
 ✦
-<a href="https://suffocating.xyz/viciousfangss">𝚜𝚞𝚏𝚏𝚘𝚌𝚊𝚝𝚒𝚗𝚐.𝚡𝚢𝚣 </a>
+<a href="https://suffocating.xyz/viciousfangss">𝖘𝖚𝖋𝖋𝖔𝖈𝖆𝖙𝖎𝖓𝖌</a>
