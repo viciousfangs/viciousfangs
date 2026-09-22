@@ -15,6 +15,6 @@
 <p align="center">
 <a href="https://viciousfangs.atabook.org/">新𝖇𝖔𝖔𝓀</a>
 ✦
-<a href="https://viciousfangs.straw.page">𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊</a>
+<a href="https://viciousfangss.straw.page">𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊</a>
 ✦
 <a href="https://suffocating.xyz/viciousfangss">𝖘𝖚𝖋𝖋𝖔𝖈𝖆𝖙𝖎𝖓𝖌</a>
