@@ -1,11 +1,11 @@
 <p align="center">
-<kbd> <img width="1143" height="240" alt="carian" src="https://github.com/user-attachments/assets/4b248c98-d84e-45ee-abee-64c46d70139d" /> </kbd>
+<kbd> <img width="1920" height="689" alt="ph header" src="https://github.com/user-attachments/assets/a29759c1-f5e5-469d-9e50-4782c4c322b0" /> </kbd>
 </p>
 <p align="center">
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?height=95&pause=953&backgroundOpacity=0&border=false&cursorStyle=blank&lines=%5B%7B%22text%22%3A%22I+looked+at+your+eyes%2C+and+saw+dullness.%22%2C%22font%22%3A%22Cinzel%22%2C%22color%22%3A%22%23ededf3%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /> </a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=555687&label=★+Hollowed+Souls&style=plastic)"/>
+<img src="https://komarev.com/ghpvc/?username=venomousviperr&color=731A1A&label=★+My+Vessels&style=plastic)"/>
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
