@@ -1,9 +1,6 @@
 <p align="center">  <img style="background: transparent;" src="https://github.com/user-attachments/assets/f3d30727-8c00-4ab8-ab3c-00ebb5d336f8" />
 </p>
 <p align="center">
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?height=95&pause=953&backgroundOpacity=0&border=false&cursorStyle=blank&lines=%5B%7B%22text%22%3A%22I+looked+at+your+eyes%2C+and+saw+dullness.%22%2C%22font%22%3A%22Cinzel%22%2C%22color%22%3A%22%23ededf3%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.2%7D%5D" alt="Typing SVG" /> </a>
-</p>
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=venomousviperr&color=731A1A&label=★+My+Vessels&style=plastic)"/>
 </p>
 <p align="center">
