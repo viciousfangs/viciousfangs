@@ -4,8 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=venomousviperr&color=731A1A&label=prying+eyes&style=plastic)"/>
 </p>
 <p align="center">
-<a href="https://viciousfangs.atabook.org/">新𝖇𝖔𝖔𝓀</a>
+<a href="https://viciousfangs.atabook.org/">新book</a>
 ✦
-<a href="https://viciousfangss.straw.page">𝖘𝖙𝖗𝖆𝖜𝖕𝖆𝖌𝖊</a>
+<a href="https://viciousfangss.straw.page">strawpage</a>
 ✦
-<a href="https://suffocating.xyz/viciousfangss">𝖘𝖚𝖋𝖋𝖔𝖈𝖆𝖙𝖎𝖓𝖌</a>
+<a href="https://suffocating.xyz/viciousfangss">frail.lol</a>
